@@ -3,10 +3,10 @@
 
 ---
 
-## **Owner & Founder**
-Auxxeon Aetheriuxx™  
-## ≽ **Auxxeon™’s Hub**:
-https://linktr.ee/Auxxeon
+## Organization Details
+| ≽ **Owner & Founder** | ≽ **Auxxeon™’s Hub** |
+| --------------------- | --------------------- |
+| Auxxeon Aetheriuxx™ | https://linktr.ee/Auxxeon |
 
 ---
 
