@@ -10,5 +10,12 @@
 
 ---
 
+## Subsidiary Organizations
+| ≽ **Subsidiary**         | ≽ **GitHub Organization**                   |
+| ------------------------- | ------------------------------------------- |
+| AVRAXEL™ EXPERIENCE LAYER | https://github.com/AVRAXEL-EXPERIENCE-LAYER |
+
+---
+
 © 2026 Auxxeon Aetheriuxx™ as AVRAXEL™.  
 All Rights Reserved.  
