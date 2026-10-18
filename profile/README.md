@@ -11,10 +11,10 @@
 ---
 
 ## Subsidiary Organizations
-| ≽ **ID** | ≽ **Subsidiary**         | ≽ **GitHub Organization**                   |
-| --------- | ------------------------- | ------------------------------------------- |
-| 00        | AVRAXEL™ CONSOLIDATED     | https://github.com/AVRAXEL-CONSOLIDATED     |
-| 05        | AVRAXEL™ EXPERIENCE LAYER | https://github.com/AVRAXEL-EXPERIENCE-LAYER |
+| ≽ **ID**  | ≽ **Subsidiary**         | ≽ **Role**             | ≽ **GitHub Organization**                  |
+| --------- | ------------------------- | ---------------------- | ------------------------------------------- |
+| 00        | AVRAXEL™ CONSOLIDATED     | Governance Subsidiary  | https://github.com/AVRAXEL-CONSOLIDATED     |
+| 05        | AVRAXEL™ EXPERIENCE LAYER | Operational Subsidiary | https://github.com/AVRAXEL-EXPERIENCE-LAYER |
 
 ---
 
