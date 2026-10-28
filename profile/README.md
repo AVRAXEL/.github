@@ -26,5 +26,15 @@
 
 ---
 
+## Subsidiary Explaination
+AVRAXEL™ is the corporation's holding company, it contains 10 subsidiaries numbered 00->09 as above.  
+AVRAXEL™ consists of:
+    - (1) Tier-0 Meta-Pillar (AVRAXEL™ CONSOLIDATED) [Governance Subsidiary]
+    - (9) Tier-1 Pillars [Operational Subsidiaries]
+    - Tier-2 Divisions
+    - Tier-3 Repositories
+    
+---
+
 © 2026 Auxxeon Aetheriuxx™ as AVRAXEL™.  
 All Rights Reserved.  
