@@ -17,7 +17,7 @@
 | 01        | AVRAXEL™ CIVILIZATION             | Operational Subsidiary |  |
 | 02        | AVRAXEL™ CORE                     | Operational Subsidiary |  |
 | 03        | AVRAXEL™ INTELLIGENCE             | Operational Subsidiary |  |
-| 04        | AVRAXEL™ IDENTITY                 | Operational Subsidiary |  |
+| 04        | AVRAXEL™ IDENTITY                 | Operational Subsidiary | https://github.com/AVRAXEL-IDENTITY |
 | 05        | AVRAXEL™ EXPERIENCE LAYER         | Operational Subsidiary | https://github.com/AVRAXEL-EXPERIENCE-LAYER |
 | 06        | AVRAXEL™ DEVELOPER INFRASTRUCTURE | Operational Subsidiary |  |
 | 07        | AVRAXEL™ ENTERPRISE PUBLIC        | Operational Subsidiary |  |
